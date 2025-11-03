@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-// dfs > 시간초과
+// dfs > 시간 초과
 class Main {
     static int n, m;
     static int[] magic;
